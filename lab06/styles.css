@@ -1,0 +1,66 @@
+@media all and (max-width: 768px) {
+	
+}
+title {
+   font-weight: bold;
+	font-family: georgia, "times new roman", serif;
+font-size: 1.25em;} 
+
+body { 
+	background-image: url("images/fire.jpg");
+	background-size: cover;
+	background-color:#FFA500;
+}
+title { font-weight: bold;
+	font-family: georgia, "times new roman", serif;
+font-size: 1.25em;} 
+h1 { color: #FF9900;
+	font-weight: 100;
+	font-family:impact,fantasy;
+	text-align:center; }
+
+h2 { background-color:black;
+	color:#FF9900;
+	text-shadow: 4px 4px 6px orange;
+	text-align: center;
+	border-radius: 15px }
+h4 {margin-left: 0px; 
+  font-family:"lucida handwriting", cursive;
+	text-decoration:underline; }
+h3 { margin-right: 0px;
+     border: 4px solid; black;
+	   background-color: #FFA500;}
+ul {margin-right: 140px;
+    list-style-type:circle;
+	  font-family: impact, fantasy;
+	  text-transform:capitalize;
+	  border: 4px solid; 
+	  border-color: #FFA500;
+	  text-decoration: underline;
+	  color: white; }
+
+ol { margin: 0px;
+  font-family:impact, fantasy;
+text-transform:capitalize;
+color:white;
+text-decoration:underline;
+ border: 4px solid; 
+ border-color: #FFA500;}
+
+p { border: 4px solid; black;
+  background-image: url(fire.jpg);
+	font-family: impact, fantasy;
+	background-color:#FFA500 }
+a {word-spacing: 5em;
+	color: darkred;
+	hover: yellow;}
+
+
+
+#burrito {margin: 0px 450px 0px;}
+#recipe {margin-right: 200px;}
+#paragraph {margin-right: 0px; 
+           font-family: cursive; 
+           text-align: center;}
+#ingredients {margin-right: 110px}
+#first { text-align: center;}
